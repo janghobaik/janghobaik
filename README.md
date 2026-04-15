@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> I am an engineer focused on AI optimization through HW/SW Co-design. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> Memory System & Digital Circuit Design (HW)</li></li> AI Software & Algorithm Optimization (SW) </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li>Memory System & Digital Circuit Design (HW)</li></li><li> AI Software & Algorithm Optimization (SW) </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
